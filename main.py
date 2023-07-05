@@ -28,7 +28,7 @@ def get_set_embeddings_details(args):
                 f"{args.emb_dir}/{args.data_name}/"
                 f"act_{args.data_name}_{args.node_edge_composition_func}_500.out"
             )
-        elif args.pretrained_method == "node2vec":
+        elif args.pretrained_method == "                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                c":
             args.base_embedding_dim = 128
             args.pretrained_embeddings = (
                 f"{args.emb_dir}/{args.data_name}/{args.data_name}.emd"
